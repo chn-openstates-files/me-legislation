@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported that the same be REFERRED to the Committee on JUDICIARY, pursuant to Public Law, chapter 40, section 5.",
+    "date": "2026-02-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 2193"
+}
