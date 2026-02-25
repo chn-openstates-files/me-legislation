@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported that the same be REFERRED to the Committee on INLAND FISHERIES AND WILDLIFE, pursuant to Resolve, chapter 82, section 6.",
+    "date": "2026-02-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "LD 2221"
+}
